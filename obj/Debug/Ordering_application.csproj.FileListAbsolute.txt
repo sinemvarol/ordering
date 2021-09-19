@@ -1,0 +1,10 @@
+C:\Users\Sinem\source\repos\Ordering_application\Ordering_application\bin\Debug\Ordering_application.exe.config
+C:\Users\Sinem\source\repos\Ordering_application\Ordering_application\bin\Debug\Ordering_application.exe
+C:\Users\Sinem\source\repos\Ordering_application\Ordering_application\bin\Debug\Ordering_application.pdb
+C:\Users\Sinem\source\repos\Ordering_application\Ordering_application\obj\Debug\Ordering_application.csprojAssemblyReference.cache
+C:\Users\Sinem\source\repos\Ordering_application\Ordering_application\obj\Debug\Ordering_application.Form1.resources
+C:\Users\Sinem\source\repos\Ordering_application\Ordering_application\obj\Debug\Ordering_application.Properties.Resources.resources
+C:\Users\Sinem\source\repos\Ordering_application\Ordering_application\obj\Debug\Ordering_application.csproj.GenerateResource.cache
+C:\Users\Sinem\source\repos\Ordering_application\Ordering_application\obj\Debug\Ordering_application.csproj.CoreCompileInputs.cache
+C:\Users\Sinem\source\repos\Ordering_application\Ordering_application\obj\Debug\Ordering_application.exe
+C:\Users\Sinem\source\repos\Ordering_application\Ordering_application\obj\Debug\Ordering_application.pdb
